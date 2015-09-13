@@ -1,0 +1,7 @@
+﻿  RoationDetection.cpp
+RoationDetection.cpp(140): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+RoationDetection.cpp(211): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+RoationDetection.cpp(232): warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+RoationDetection.cpp(325): warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+RoationDetection.cpp(351): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+  RotationFaceRecognition.vcxproj -> F:\nastaran\university\Proje payani\RotationFaceRecognition\x64\Debug\RotationFaceRecognition.exe
